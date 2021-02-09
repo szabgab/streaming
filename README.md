@@ -5,6 +5,7 @@
 
 2021.02.09 18:00 UTC - Perl Dancer runner for GitLab CI
 
+* [App::GitLab::Runner](https://gitlab.com/szabgab/app-gitlab-runner)
 * fix the filling of the form in the select element as well
 * make configuration parameters as suggested on the Dancer mailing list
 * add explanation how to use the system.
